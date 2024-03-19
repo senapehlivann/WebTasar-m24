@@ -1,1 +1,1 @@
-# WebTasar-m24
+Web Tasarım Dersi 2024
